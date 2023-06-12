@@ -1,2 +1,0 @@
-# AnalogInstrument.github.io
-blog
